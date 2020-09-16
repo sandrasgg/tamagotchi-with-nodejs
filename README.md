@@ -1,4 +1,4 @@
 # tamagotchi with node.js
-dependencies: 
+required installs: 
 npm install readline-sync // 
 node.js
